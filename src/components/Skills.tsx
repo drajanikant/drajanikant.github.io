@@ -73,30 +73,32 @@ function Skills() {
         <ul className="fa-ul mb-0">
           <li>
             <FontAwesomeIcon icon={faCheck} className="fa-li" />
-            <strong>Core Skills:</strong> Java, Python, Go, PHP
+            <strong>Core Skills:</strong> Java, Python, Go, PHP, JavaScript.
           </li>
           <li>
             <FontAwesomeIcon icon={faCheck} className="fa-li" />
-            <strong>Frameworks:</strong> Spring MVC, Spring Boot, Laravel
+            <strong>Frameworks:</strong> Spring MVC, Spring Boot, Spring
+            Security, Vert.x, Django, Gorilla
           </li>
           <li>
             <FontAwesomeIcon icon={faCheck} className="fa-li" />
-            <strong>Web Development:</strong> Bootstrap, JavaScript, AngularJS,
-            ReactJS, VueJS
+            <strong>Web Development:</strong> Bootstrap, HTML, CSS, ReactJS,
+            Redux, Redux Toolkit
           </li>
           <li>
             <FontAwesomeIcon icon={faCheck} className="fa-li" />
-            <strong>DevOps Tools:</strong> Git, GitLab, GitHub, Jenkins, Docker,
-            Openshift
+            <strong>DevOps Tools:</strong> Git, GitLab, GitHub, BitBucket,
+            Jenkins, Docker, Openshift, Nginx
           </li>
           <li>
             <FontAwesomeIcon icon={faCheck} className="fa-li" />
             <strong>Project Management Tools:</strong> Jira, Confluence, Slack,
-            Trello
+            Trello, Rally
           </li>
           <li>
             <FontAwesomeIcon icon={faCheck} className="fa-li" />
-            <strong>Build Tools:</strong> Maven 3, Gradle, Composer, NPM, DEP
+            <strong>Build Tools:</strong> Maven 3, Gradle, Composer, NPM, DEP,
+            Go Mod
           </li>
           <li>
             <FontAwesomeIcon icon={faCheck} className="fa-li" />
@@ -104,12 +106,16 @@ function Skills() {
           </li>
           <li>
             <FontAwesomeIcon icon={faCheck} className="fa-li" />
-            <strong>Operating Systems:</strong> CentOS, RHEL, Linux Mint,
-            OpenSuse
+            <strong>Operating Systems:</strong> Ubuntu, Windows, CentOS, RHEL,
+            Linux Mint, MacOS
           </li>
           <li>
             <FontAwesomeIcon icon={faCheck} className="fa-li" />
-            <strong> Database: </strong>MySQL, PostgreSQL, MongoDB, Oracle.
+            <strong> Database: </strong> MySQL, PostgreSQL, MongoDB, Oracle.
+          </li>
+          <li>
+            <FontAwesomeIcon icon={faCheck} className="fa-li" />
+            <strong> Other: </strong> Postman, Swagger
           </li>
         </ul>
       </div>

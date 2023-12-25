@@ -18,11 +18,11 @@ function Profile() {
           </a>
         </div>
         <p className="lead mb-5">
-          More than 3 years of experience in Microservices Development,
-          Integration Services, Spring Application Development, and Laravel
-          application. I have worked on full stack development and eager to work
-          on cutting-edge technologies of the day and of the future. Looking
-          beyond to provide solutions and designing the architecture to
+          More than 6 years of experience in Microservices Development,
+          Integration Services, Application Automation, and Application
+          Migration. I have worked on full-stack development and am eager to
+          work on cutting-edge technologies of the day and of the future.
+          Looking beyond to provide solutions and designing the architecture to
           understand what future technologies hold for us and how we can
           leverage it to meet the challenges of the present time.
         </p>
